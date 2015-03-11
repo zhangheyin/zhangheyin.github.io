@@ -1,10 +1,11 @@
 # Site wide configuration
 
 title:            Overflow Brandy
-locale:           en_US
+locale:           zh_CN
 url:              
 
-O
+
+
 # Jekyll configuration
 
 permalink:   /:categories/:title/

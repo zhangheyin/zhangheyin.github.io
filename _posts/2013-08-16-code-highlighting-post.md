@@ -14,6 +14,16 @@ Syntax highlighting is a feature that displays source code, in different colors 
 ### Pygments Code Blocks
 
 To modify styling and highlight colors edit `/_sass/_pygments.scss`.
+{% highlight c %}
+/* hello world demo */
+#include <stdio.h>
+int main(int argc, char **argv)
+{
+    printf("Hello, World!\n");
+    return 0;
+}
+{% endhighlight %}
+
 
 {% highlight css %}
 #container {
