@@ -26,13 +26,13 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: zhangheyin
   avatar: bio-photo.jpg
   bio: "Describe your self."
   email: 
   disqus-shortname: 
-  twitter: #username
-  facebook: #username
+  twitter: zhangheyin#username
+  facebook: zhangheyin#username
   google:
     plus: #username
     analytics: 
